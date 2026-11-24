@@ -1,0 +1,7 @@
+{
+  "name": "halloween-bruja",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "halloween-ui",
+  "version": "1.0.0",
+  "description": "Biblioteca de componentes personalizados para la aplicación de Halloween de la Bruja.",
+  "author": "Oscar Krzepisz Bueno",
+  "peerDependencies": {
+    "@angular/common": "^22.3.0",
+    "@angular/core": "^22.3.0"
+  },
+  "sideEffects": false,
+  "exports": {
+    ".": "./src/public-api.ts"
+  }
+}

@@ -1,0 +1,85 @@
+
+ion-content {
+  --background: #160d24;
+}
+
+ion-toolbar {
+  --background: #29183b;
+  --color: #ffffff;
+}
+
+ion-title {
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.galeria {
+  padding: 25px 20px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.etiqueta {
+  display: block;
+  color: #a8e063;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin: 10px 0 20px;
+}
+
+.galeria h1 {
+  color: #b98aff;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.introduccion {
+  color: #d0c5dc;
+  font-size: 15px;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+
+.objeto {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background: #29183b;
+  border: 1px solid #50346b;
+  border-radius: 16px;
+  padding: 12px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.objeto img {
+  width: 115px;
+  height: 115px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.informacion h2 {
+  color: #a8e063;
+  font-size: 19px;
+  margin: 0 0 8px;
+}
+
+.informacion p {
+  color: #e0d7e9;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.frase {
+  color: #c49aff;
+  font-style: italic;
+  font-size: 16px;
+  margin: 30px 0 15px;
+}
+

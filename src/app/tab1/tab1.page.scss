@@ -1,0 +1,79 @@
+
+ion-content {
+  --background: #160d24;
+}
+
+ion-toolbar {
+  --background: #29183b;
+  --color: #ffffff;
+}
+
+ion-title {
+  font-size: 17px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+.portada {
+  padding: 25px 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.etiqueta {
+  display: inline-block;
+  color: #a8e063;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-top: 15px;
+}
+
+.portada h1 {
+  color: #b98aff;
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 1.15;
+  margin: 20px 0 12px;
+}
+
+.subtitulo {
+  color: #d0c5dc;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+.imagen-principal {
+  margin: 25px auto;
+  padding: 12px;
+  max-width: 320px;
+  background: #29183b;
+  border: 1px solid #7952a8;
+  border-radius: 22px;
+}
+
+.imagen-principal img {
+  width: 100%;
+  height: 260px;
+  object-fit: contain;
+}
+
+.bienvenida {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.bienvenida h2 {
+  color: #a8e063;
+  font-size: 23px;
+  margin-bottom: 12px;
+}
+
+.bienvenida p {
+  color: #d0c5dc;
+  font-size: 15px;
+  line-height: 1.7;
+}
